@@ -1,5 +1,7 @@
 # Codewars.js (One Line)
 
+[![](https://www.codewars.com/users/LianSheng197/badges/large)](https://www.codewars.com/users/LianSheng197)
+
 ## 嘗試每道題目都用一行解
 如果只有一個函式的話，那就是直接 return 一行。  
 但如果有多個函式的話，我想我會把他們整合進同一個類別，然後把對照表拆出來。  
@@ -63,10 +65,24 @@ string - 0;
 char < {} 
 ```
 
-####
+### 幹嘛不用最小化工具？
+
+目的不同嘛~
 
 
 ## 搞這麼複雜是為了什麼？
 
 沒為了什麼，純粹好玩。  
 不知道可以維持到多少 kyu？
+
+> 好吧，看來到 **4kyu** 就破功了。  
+> 第一個打破初衷的題目是 [Befunge Interpreter](https://www.codewars.com/kata/526c7b931666d07889000a3c) 這題。
+>
+> 這題由於我對題目本身的陌生，再加上其複雜性，以至於不太可能直接用單行的寫法去解。  
+> 不過最後還是有產出完整版跟單行版：
+> * 完整版：[Befunge Interpreter.full.js](4kyu/Befunge%20Interpreter.full.js)
+> * 單行版：[Befunge Interpreter.js](4kyu/Befunge%20Interpreter.js)
+>
+> 即使用單行的方式去寫依舊還有 2.3KB 的大小，這說明到這種難度之後的題目，基本上已經沒有使用單行的意義了。~~（或者說本來就沒意義）~~  
+> 
+> 但即便如此，未來有空的話我應該還是會寫單行版，跟完整版一起上傳。
